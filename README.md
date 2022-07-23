@@ -3,7 +3,7 @@ My bachelor thesis is about bicategories in noncommutative geometry!
 In particular, it deals with covariant representations of twisted (partial) group actions on rings.
 Of course, everything in the language of bicategory! :)
 
-First, i introduce the concept of bicategory and covariance rings.   
+First, I start with the concept of bicategory and covariance rings.   
 A bicategory is something like a category of categories with some weaked conditions.  
 The concept of covariance rings is introduced by my supervisor Ralf Meyer.
 It is a ring with the universal property so that it captures all covrariant representations of twisted (partial) group actions.  
