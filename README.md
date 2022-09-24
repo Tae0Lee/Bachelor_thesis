@@ -23,6 +23,6 @@ Shortly, if a twisted partial action is a restriction of a twisted group action,
 Furthermore, I provide various examples of lax and strong covariance rings.
 Leavitt path algebras and Steinberg algebras appears as common examples of them.
 
-It is pretty fun to look noncommutative geometry and algebra with the perspective of bicategory.
+It is pretty funny to look at noncommutative geometry and algebra with the perspective of bicategory.
 
 If you are intereseted, check my thesis out!
