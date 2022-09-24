@@ -6,7 +6,7 @@ Of course, everything in the language of bicategory! :)
 First, I start with the concept of bicategory and covariance rings.   
 A bicategory is something like a category of categories with some weakened conditions.  
 The concept of covariance rings is introduced by my supervisor Ralf Meyer.
-It is a ring with the universal property so that it captures all covrariant representations of twisted (partial) group actions.  
+It is a ring with the universal property so that it captures all covrariant representations of morphisms to the bicategory of rings.  
 There are two variation of covariance rings, namely lax covariance rings and strong covariance rings.
 A lax covariance ring captures all 'lax' covariant representations that are somewhat simple representations.
 A strong covariance ring caputures all strong covariant representations that behaves better than the lax ones.
