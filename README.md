@@ -15,7 +15,7 @@ It is easier to understand lax covariance rings because lax covariant representa
 We even know in which condition lax covariance rings exist.
 
 
-But ,in general, it is not know in which condition strong covariance rings exist.
+But ,in general, it is not known in which condition strong covariance rings exist.
 In my thesis, I have shown that twisted partial group actions with an enveloping action do admit a strong covariance ring!
 Shortly, if a twisted partial action is a restriction of a twisted group action, it admits a strong covariance ring!
 
