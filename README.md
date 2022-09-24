@@ -12,7 +12,7 @@ A lax covariance ring captures all 'lax' covariant representations that are some
 A strong covariance ring caputures all strong covariant representations that behaves better than the lax ones.
 
 It is easier to understand lax covariance rings because lax covariant representations are simple.
-We know even in which condition lax covariance rings exist.  
+We even know in which condition lax covariance rings exist.
 
 
 But ,in general, it is not know in which condition strong covariance rings exist.
